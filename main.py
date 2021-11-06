@@ -1,5 +1,4 @@
 import pygame, sys
-from pygame import display
 from pygame.locals import *
 
 def ballAnimation():
